@@ -1,0 +1,14 @@
+asgiref
+Django
+django-filter
+djangorestframework
+djangorestframework-simplejwt
+Markdown
+packaging
+Pillow
+pip-review
+PyJWT
+pyparsing
+pytz
+six
+sqlparse
